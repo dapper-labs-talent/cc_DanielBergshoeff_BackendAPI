@@ -17,7 +17,7 @@ STEP 7. Once the Query has been loaded into your Query Editor, Execute the Query
 
 STEP 8. Open DapperApp/DapperApp.sln with Visual Studio
 
-STEP 9. Ensure that in appsettings.json the User Id and Password are set to match yours in postgres
+STEP 9. Ensure that in appsettings.json the User Id and Password are set to match yours in postgres as well as the Port
 
 STEP 10. Run program in Visual Studio
 
