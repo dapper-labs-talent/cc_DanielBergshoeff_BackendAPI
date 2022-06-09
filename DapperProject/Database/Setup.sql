@@ -2,7 +2,7 @@ CREATE TABLE DapperUser(
 	UserId serial,
 	UserFirstName varchar(100),
 	UserLastName varchar(100),
-	UserMail varchar(100),
+	UserMail varchar(100) UNIQUE,
 	UserPassword varchar(255)
 );
 

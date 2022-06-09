@@ -11,7 +11,7 @@ All of these are things I hadn't done before, but needed to learn for this assig
 > - Setting up and making use of JWTs for authorization
 
 Is there anything you would have liked to implement but didn't have the time to?
->Multiple things, but I would have liked to clean up the code/project a bit more, as it is currently a not-so-clean mish-mesh of tutorials and my own interpretations.
+>Multiple things, but I would have liked to clean up the code/project a bit more, as it is currently a not-so-clean mish-mesh of tutorials and my own interpretations. I'd also have liked to add a bit more user friendly feedback when getting an error, as the error messages aren't usable in their current state.
 
 What are the security holes (if any) in your system? If there are any, how would you fix them?
 >My passwords aren't hashed and salted, so that would be my nr. 1 priority to fix if I cared about security.
